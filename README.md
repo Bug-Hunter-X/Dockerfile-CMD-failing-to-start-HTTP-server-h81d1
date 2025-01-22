@@ -1,0 +1,2 @@
+# Dockerfile CMD Failure
+This repository demonstrates a common error in Dockerfiles where the `CMD` instruction fails to execute correctly.  The issue is related to starting an HTTP server using python3 -m http.server. The solution provides a working Dockerfile.
